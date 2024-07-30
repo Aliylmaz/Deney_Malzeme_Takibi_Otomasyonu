@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+    <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+      <Dimension value="[1170, 600]"/>
+    </Property>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <Events>
+    <EventHandler event="windowClosed" listener="java.awt.event.WindowListener" parameters="java.awt.event.WindowEvent" handler="formWindowClosed"/>
+  </Events>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,92,0,0,4,-110"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignBoxLayout"/>
+  <SubComponents>
+    <Container class="javax.swing.JTabbedPane" name="jTabbedPane1">
+      <Properties>
+        <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[1060, 598]"/>
+        </Property>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout"/>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel1">
+          <Properties>
+            <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[1060, 500]"/>
+            </Property>
+            <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[1060, 500]"/>
+            </Property>
+            <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[1060, 500]"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="Logo">
+                <Property name="tabTitle" type="java.lang.String" value="Logo"/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                      <Component id="jScrollPane1" min="-2" pref="560" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace pref="67" max="32767" attributes="0"/>
+                  </Group>
+                  <Component id="jScrollPane1" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel1">
+              <Properties>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="2" name="C:\Users\fbali\Downloads\Siyah Minimalist Metin Logo.png"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTextArea" name="jTextArea1">
+                  <Properties>
+                    <Property name="editable" type="boolean" value="false"/>
+                    <Property name="columns" type="int" value="20"/>
+                    <Property name="rows" type="int" value="5"/>
+                    <Property name="text" type="java.lang.String" value=" &quot; Logo Anlam&#x131;&quot;&#xa;&#xa;Y&#x131;lmaz Holding logosunda kullan&#x131;lan renkler ve &#x15f;ekiller, &#x15f;irketinizin de&#x11f;erlerini ve&#xa;ba&#x15f;ar&#x131;lar&#x131;n&#x131; daha da vurgular. Logoda yer alan turkuaz rengi, yenilik&#xe7;ili&#x11f;i, sadakati ve&#xa;istikrar&#x131; temsil eder. Bu renk, &#x15f;irketinizin sekt&#xf6;rdeki &#xf6;nc&#xfc; konumunu ve s&#xfc;rekli olarak&#xa;yeni &#xe7;&#xf6;z&#xfc;mler sunma vizyonunu yans&#x131;t&#x131;r. Ayn&#x131; zamanda, turkuaz renk enerjiyi ve&#xa;canl&#x131;l&#x131;&#x11f;&#x131; simgeler, &#x15f;irketinizin dinamizmini ve etkileyici performans&#x131;n&#x131; yans&#x131;t&#x131;r.&#xa;&#xa;Logoda yer alan &#x15f;ekillerin ak&#x131;c&#x131; ve uyumlu olmas&#x131;, &#x15f;irketinizin s&#xfc;rekli b&#xfc;y&#xfc;me ve&#xa;geli&#x15f;me yolunda ilerledi&#x11f;ini vurgular. Bu ak&#x131;c&#x131; &#x15f;ekiller, &#x15f;irketinizin yenilik&#xe7;i&#xa;yakla&#x15f;&#x131;m&#x131;n&#x131; ve de&#x11f;i&#x15f;ime a&#xe7;&#x131;k olu&#x15f;unu temsil eder. &#x15e;irketinizin sekt&#xf6;rdeki liderlik&#xa;konumunu ve kararl&#x131;l&#x131;&#x11f;&#x131;n&#x131; yans&#x131;tan &#xe7;izgiler, g&#xfc;veni ve istikrar&#x131; temsil eder.&#xa;&#xa;Y&#x131;lmaz Holding logosunun tasar&#x131;m&#x131;, &#x15f;irketinizin g&#xfc;&#xe7;l&#xfc; duru&#x15f;unu ve m&#xfc;kemmeliyet&#xa;odakl&#x131; yakla&#x15f;&#x131;m&#x131;n&#x131; yans&#x131;t&#x131;r. Logo, markan&#x131;z&#x131;n de&#x11f;erlerini ta&#x15f;&#x131;rken, ayn&#x131; zamanda&#xa;m&#xfc;&#x15f;terilerinize kalite ve g&#xfc;ven duygusu verir. Logonun sadeli&#x11f;i ve etkileyici g&#xf6;r&#xfc;n&#xfc;m&#xfc;,&#xa;&#x15f;irketinizin profesyonel ve g&#xfc;venilir bir ortak oldu&#x11f;unu vurgular.&#xa;&#xa;Tasarlanan logo, &#x15f;irketinizin deney malzemeleri alan&#x131;nda lider konumunu ve s&#xfc;rekli&#xa;olarak m&#xfc;&#x15f;teri beklentilerini a&#x15f;ma hedefini yans&#x131;tan &#xf6;nemli bir sembol haline gelmi&#x15f;tir.&#xa;&#x15e;irketinizin de&#x11f;erlerini ve ba&#x15f;ar&#x131;lar&#x131;n&#x131; yans&#x131;tan bu logo, m&#xfc;&#x15f;terileriniz ve i&#x15f; ortaklar&#x131;n&#x131;z &#xfc;zerinde&#xa;olumlu bir etki yarat&#x131;rken, marka bilinirli&#x11f;inizi de art&#x131;r&#x131;r.&#xa;&#xa;Y&#x131;lmaz Holding olarak, deney malzemeleri sekt&#xf6;r&#xfc;nde liderlik yolculu&#x11f;unu&#xa;s&#xfc;rd&#xfc;r&#xfc;rken, &#x15f;irketinizin logosu da sizinle birlikte b&#xfc;y&#xfc;meye ve ba&#x15f;ar&#x131;ya odaklanmaya&#xa;devam edecektir.&#xa;"/>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel2">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="cc" red="cc" type="rgb"/>
+            </Property>
+            <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[600, 567]"/>
+            </Property>
+            <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[600, 567]"/>
+            </Property>
+            <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[600, 567]"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="Hakk&#x131;m&#x131;zda">
+                <Property name="tabTitle" type="java.lang.String" value="Hakk&#x131;m&#x131;zda"/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignBoxLayout"/>
+          <SubComponents>
+            <Container class="javax.swing.JPanel" name="jPanel4">
+
+              <Layout>
+                <DimensionLayout dim="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                                  <Component id="jLabel3" min="-2" pref="280" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jScrollPane2" pref="744" max="32767" attributes="0"/>
+                          <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                </DimensionLayout>
+                <DimensionLayout dim="1">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="1" attributes="0">
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                                  <Component id="jScrollPane2" min="-2" pref="568" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" attributes="0">
+                                  <Component id="jLabel2" min="-2" pref="290" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jLabel3" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                </DimensionLayout>
+              </Layout>
+              <SubComponents>
+                <Component class="javax.swing.JLabel" name="jLabel2">
+                  <Properties>
+                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                      <Image iconType="2" name="C:\Users\fbali\Downloads\Ads&#x131;z tasar&#x131;m (3).png"/>
+                    </Property>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel3">
+                  <Properties>
+                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                      <Image iconType="2" name="C:\Users\fbali\Downloads\Ads&#x131;z tasar&#x131;m (2).png"/>
+                    </Property>
+                    <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+                      <Dimension value="[250, 260]"/>
+                    </Property>
+                  </Properties>
+                </Component>
+                <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+                  <AuxValues>
+                    <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+                  </AuxValues>
+
+                  <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                  <SubComponents>
+                    <Component class="javax.swing.JTextArea" name="jTextArea2">
+                      <Properties>
+                        <Property name="editable" type="boolean" value="false"/>
+                        <Property name="columns" type="int" value="20"/>
+                        <Property name="rows" type="int" value="5"/>
+                        <Property name="text" type="java.lang.String" value="Y&#x131;lmaz Holding: Deney Malzemelerinde &#xd6;nc&#xfc; Bir &#x15e;irket&#xa;&#xa;Y&#x131;lmaz Holding, deney malzemeleri sekt&#xf6;r&#xfc;nde lider konumda olan bir &#x15f;irkettir. Kurulu&#x15f;umuz, y&#x131;llard&#x131;r bilimsel ara&#x15f;t&#x131;rma ve geli&#x15f;tirmeye&#xa;odaklanarak, m&#xfc;&#x15f;terilerimize en kaliteli ve g&#xfc;venilir deney malzemelerini sunma vizyonuyla hareket etmektedir. &#x130;novasyon, kalite ve m&#xfc;&#x15f;teri &#xa;memnuniyeti, &#x15f;irketimizin temel de&#x11f;erleridir.&#xa;&#xa;Misyonumuz, bilimsel ara&#x15f;t&#x131;rma ve deneylerde kullan&#x131;lan malzemelerin kalitesini y&#xfc;kselterek, bilim d&#xfc;nyas&#x131;na katk&#x131;da bulunmakt&#x131;r &#xa;Sekt&#xf6;rdeki yenilikleri takip ederek, s&#xfc;rekli olarak yeni &#xfc;r&#xfc;nler geli&#x15f;tirmekte ve m&#xfc;&#x15f;terilerimizin ihtiya&#xe7;lar&#x131;na uygun &#xe7;&#xf6;z&#xfc;mler sunmaktay&#x131;z. &#xa;Kalite standartlar&#x131;na s&#x131;k&#x131; bir &#x15f;ekilde ba&#x11f;l&#x131; kalarak, g&#xfc;venilir ve do&#x11f;ru sonu&#xe7;lar elde etmelerini sa&#x11f;lamak amac&#x131;yla &#xe7;al&#x131;&#x15f;&#x131;yoruz.&#xa;&#xa;Vizyonumuz ise, deney malzemeleri alan&#x131;nda global &#xf6;l&#xe7;ekte tan&#x131;nan ve tercih edilen bir marka olmakt&#x131;r. S&#xfc;rekli olarak ara&#x15f;t&#x131;rma, &#xa;geli&#x15f;tirme ve yenilik&#xe7;i projelere yat&#x131;r&#x131;m yaparak, sekt&#xf6;rde &#xf6;nc&#xfc; konumumuzu g&#xfc;&#xe7;lendirmeyi hedefliyoruz. M&#xfc;&#x15f;teri odakl&#x131; bir yakla&#x15f;&#x131;mla, &#xa;onlar&#x131;n beklentilerini a&#x15f;may&#x131; ve uzun s&#xfc;reli i&#x15f;birlikleri kurmay&#x131; ama&#xe7;l&#x131;yoruz.&#xa;&#xa;Y&#x131;lmaz Holding olarak, sekt&#xf6;rdeki deneyimimiz ve uzman kadromuzla, m&#xfc;&#x15f;terilerimize &#xe7;e&#x15f;itli deney malzemeleri sunmaktay&#x131;z. Kimya,&#xa; biyoloji, fizik ve m&#xfc;hendislik alanlar&#x131;nda kullan&#x131;lan geni&#x15f; bir &#xfc;r&#xfc;n yelpazemiz bulunmaktad&#x131;r. &#xdc;r&#xfc;nlerimiz, y&#xfc;ksek kalite standartlar&#x131;na &#xa;uygun olarak &#xfc;retilmekte ve d&#xfc;nya genelinde tan&#x131;nm&#x131;&#x15f; tedarik&#xe7;ilerden temin edilmektedir.&#xa;&#xa;Ba&#x15f;ar&#x131;lar&#x131;m&#x131;z&#x131;, m&#xfc;&#x15f;teri memnuniyetine dayand&#x131;rmaktay&#x131;z. M&#xfc;&#x15f;terilerimizin ihtiya&#xe7;lar&#x131;n&#x131; anlamak ve onlara en uygun &#xe7;&#xf6;z&#xfc;mleri sunmak &#xa;i&#xe7;in s&#xfc;rekli olarak kendimizi geli&#x15f;tiriyoruz. G&#xfc;&#xe7;l&#xfc; tedarik zincirimiz ve h&#x131;zl&#x131; lojistik a&#x11f;&#x131;m&#x131;z sayesinde, m&#xfc;&#x15f;terilerimize zaman&#x131;nda ve &#xa;sorunsuz bir &#x15f;ekilde &#xfc;r&#xfc;nlerini ula&#x15f;t&#x131;rmaktay&#x131;z.&#xa;&#xa;Y&#x131;lmaz Holding olarak, deney malzemeleri sekt&#xf6;r&#xfc;nde liderli&#x11f;imizi s&#xfc;rd&#xfc;rmek ve global &#xf6;l&#xe7;ekte tan&#x131;nan bir marka olmak i&#xe7;in &#xa;&#xe7;al&#x131;&#x15f;malar&#x131;m&#x131;za devam edece&#x11f;iz. M&#xfc;&#x15f;terilerimize en iyi hizmeti sunmay&#x131; ve bilimsel ara&#x15f;t&#x131;rmalara de&#x11f;er katmay&#x131; s&#xfc;rd&#xfc;rece&#x11f;iz. &#xa;Sizlere, kaliteli ve g&#xfc;venilir deney malzemeleri ile &#xe7;&#xf6;z&#xfc;m orta&#x11f;&#x131; olmaktan gurur duyaca&#x11f;&#x131;m&#x131;z&#x131; belirtmek isteriz.&#xa;"/>
+                      </Properties>
+                    </Component>
+                  </SubComponents>
+                </Container>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel3">
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="Politikam&#x131;z">
+                <Property name="tabTitle" type="java.lang.String" value="Politikam&#x131;z"/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignBoxLayout"/>
+          <SubComponents>
+            <Container class="javax.swing.JPanel" name="jPanel5">
+              <Properties>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="99" green="99" red="99" type="rgb"/>
+                </Property>
+              </Properties>
+
+              <Layout>
+                <DimensionLayout dim="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="jLabel4" min="-2" pref="566" max="-2" attributes="0"/>
+                              <Component id="jLabel5" pref="0" max="32767" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Component id="jScrollPane3" min="-2" pref="598" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                </DimensionLayout>
+                <DimensionLayout dim="1">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Component id="jLabel5" pref="0" max="32767" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jLabel4" min="-2" pref="373" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                          <Component id="jScrollPane3" min="-2" pref="573" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                </DimensionLayout>
+              </Layout>
+              <SubComponents>
+                <Component class="javax.swing.JLabel" name="jLabel4">
+                  <Properties>
+                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                      <Image iconType="2" name="C:\Users\fbali\Downloads\istockphoto-844130060-612x612.jpg"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="jLabel4"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel5">
+                  <Properties>
+                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                      <Image iconType="2" name="C:\Users\fbali\Downloads\Ads&#x131;z tasar&#x131;m (5).png"/>
+                    </Property>
+                  </Properties>
+                </Component>
+                <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+                  <AuxValues>
+                    <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+                  </AuxValues>
+
+                  <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                  <SubComponents>
+                    <Component class="javax.swing.JTextArea" name="jTextArea3">
+                      <Properties>
+                        <Property name="editable" type="boolean" value="false"/>
+                        <Property name="columns" type="int" value="20"/>
+                        <Property name="rows" type="int" value="5"/>
+                        <Property name="text" type="java.lang.String" value="&quot;Gizlilik Politikalar&#x131; ve Veri Koruma &#xd6;nlemleri&quot;&#xa;&#xa;Y&#x131;lmaz Holding olarak, m&#xfc;&#x15f;terilerimizin ve i&#x15f; ortaklar&#x131;m&#x131;z&#x131;n gizlilik haklar&#x131;na sayg&#x131; g&#xf6;stermek&#xa;ve verilerini g&#xfc;vende tutmak en &#xf6;nemli &#xf6;nceliklerimizden biridir. Bu nedenle, &#x15f;irketimiz&#xa;g&#xfc;&#xe7;l&#xfc; gizlilik politikalar&#x131; ve veri koruma &#xf6;nlemleri benimsemektedir.&#xa;&#xa;M&#xfc;&#x15f;terilerimizin Gizlili&#x11f;i: M&#xfc;&#x15f;terilerimizin ki&#x15f;isel bilgilerini korumak ve gizliliklerini &#xa;sa&#x11f;lamak amac&#x131;yla uygun g&#xfc;venlik &#xf6;nlemleri al&#x131;yoruz. M&#xfc;&#x15f;terilerimizin ad&#x131;, ileti&#x15f;im bilgileri,&#xa;sat&#x131;n alma ge&#xe7;mi&#x15f;i gibi ki&#x15f;isel verileri yaln&#x131;zca belirli ama&#xe7;larla ve yasal temellere dayanarak&#xa;kullan&#x131;yoruz. Bu bilgileri &#xfc;&#xe7;&#xfc;nc&#xfc; taraflarla payla&#x15f;m&#x131;yoruz ve gizliliklerini korumak i&#xe7;in &#xa;gereken &#xf6;nlemleri al&#x131;yoruz.&#xa;&#xa;Veri G&#xfc;venli&#x11f;i: &#x15e;irketimiz, m&#xfc;&#x15f;teri verilerinin g&#xfc;venli&#x11f;ini sa&#x11f;lamak i&#xe7;in sekt&#xf6;r standartlar&#x131;n&#x131;&#xa;takip eden teknik ve organizasyonel &#xf6;nlemler uygular. Veri g&#xfc;venli&#x11f;i politikalar&#x131;m&#x131;z ve&#xa;prosed&#xfc;rlerimiz, yetkisiz eri&#x15f;imleri &#xf6;nlemek, veri b&#xfc;t&#xfc;nl&#xfc;&#x11f;&#xfc;n&#xfc; korumak ve veri kayb&#x131;n&#x131; &#xf6;nlemek i&#xe7;in tasarlanm&#x131;&#x15f;t&#x131;r. Ayr&#x131;ca, veri g&#xfc;venli&#x11f;i konusunda s&#xfc;rekli e&#x11f;itimler ve fark&#x131;ndal&#x131;k&#xa;programlar&#x131; y&#xfc;r&#xfc;terek &#xe7;al&#x131;&#x15f;anlar&#x131;m&#x131;z&#x131;n da katk&#x131;s&#x131;n&#x131; sa&#x11f;l&#x131;yoruz.&#xa;&#xa;Veri &#x130;&#x15f;leme S&#xfc;re&#xe7;leri: M&#xfc;&#x15f;teri verilerini yaln&#x131;zca belirli hizmetleri sunmak ve m&#xfc;&#x15f;teri &#xa;taleplerini kar&#x15f;&#x131;lamak i&#xe7;in kullan&#x131;yoruz. Veri i&#x15f;leme s&#xfc;re&#xe7;lerimiz, gizlilik ilkesine uygun &#xa;olarak yasal temellere dayan&#x131;r ve verilerin do&#x11f;ru, g&#xfc;ncel ve s&#x131;n&#x131;rl&#x131; bir &#x15f;ekilde i&#x15f;lenmesini&#xa;sa&#x11f;lar. M&#xfc;&#x15f;terilerimizin verilerini gereksiz yere saklam&#x131;yoruz ve veri s&#xfc;reklili&#x11f;i i&#xe7;in gerekli &#xa;&#xf6;nlemleri al&#x131;yoruz.&#xa;&#xa;&#xdc;&#xe7;&#xfc;nc&#xfc; Taraflarla Payla&#x15f;&#x131;m: M&#xfc;&#x15f;teri verilerini &#xfc;&#xe7;&#xfc;nc&#xfc; taraflarla yaln&#x131;zca yasal zorunluluklar&#xa;veya m&#xfc;&#x15f;terilerimizin a&#xe7;&#x131;k r&#x131;zas&#x131; do&#x11f;rultusunda payla&#x15f;&#x131;yoruz. Bu payla&#x15f;&#x131;mlar&#x131;n gizlilik ve &#xa;veri koruma standartlar&#x131;na uygun oldu&#x11f;unu ve m&#xfc;&#x15f;teri haklar&#x131;n&#x131; korudu&#x11f;umuzu taahh&#xfc;t &#xa;ediyoruz.&#xa;&#xa;Veri &#x130;hlali Durumunda: &#x15e;irketimiz, olas&#x131; bir veri ihlali durumunda h&#x131;zl&#x131; ve etkili bir &#x15f;ekilde &#xa;m&#xfc;dahale etmeyi taahh&#xfc;t eder. Veri ihlali durumunda, etkilenen m&#xfc;&#x15f;terilere derhal bildirim&#xa;yapar ve gerekli ad&#x131;mlar&#x131; atar&#x131;z.&#xa;&#xa;Gizlilik politikalar&#x131;m&#x131;z ve veri koruma &#xf6;nlemlerimiz, teknolojik geli&#x15f;melere ve yasal &#xa;d&#xfc;zenlemelere uygun olarak s&#xfc;rekli olarak g&#xfc;ncellenir. M&#xfc;&#x15f;terilerimizin ve i&#x15f; &#xa;ortaklar&#x131;m&#x131;z&#x131;n gizliliklerini korumak ve verilerini g&#xfc;venli bir &#x15f;ekilde i&#x15f;lemek i&#xe7;in &#xa;elinden geleni yapan Y&#x131;lmaz Holding, bu konuda taahh&#xfc;tlerini ve sorumluluklar&#x131;n&#x131;&#xa;yerine getirir.&quot;"/>
+                      </Properties>
+                    </Component>
+                  </SubComponents>
+                </Container>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
