@@ -21,7 +21,7 @@ import java.util.logging.Logger;
  */
 public class Ali_Yilmaz_2121221031_bp2_p2_MalzemeDB {
 
-    private static final String connectionString = "jdbc:mysql://127.0.0.1:3306/deneymalzemetakibi_db?user=root&password=m0rfeus123";
+    private static final String connectionString = "your-url-address";
     private static Connection conn;
 
     public static boolean AddMaterial(Ali_Yilmaz_2121221031_bp2_p2_Malzemeler malzeme) {
